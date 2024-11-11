@@ -1,1 +1,1 @@
-This is the implementation of the classig "snake" game using python and Pygame.
+This is the implementation of the classic "snake" game using python and Pygame.
